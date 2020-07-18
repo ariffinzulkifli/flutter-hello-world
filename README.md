@@ -1,16 +1,13 @@
 # hello_world
 
-A new Flutter project.
+Training asas Flutter, trainer oleh Tuan Caspian (https://github.com/casfian/) pada 18 Julai 2020.
 
-## Getting Started
+## Asas Flutter
 
-This project is a starting point for a Flutter application.
+Saya kongsikan source code Flutter yang saya pelajari hari ini dan buat tambahan untuk buat HTTP API request ke API COVID19 dan data stored dalam dynamic ListView dan display setiap data dengan Card widget dan ListTile.
 
-A few resources to get you started if this is your first Flutter project:
+- [API COVID-19](https://github.com/disease-sh/api)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Bagi anda yang nak start belajar Flutter boleh hubungi terus Tuan Caspian atau secara online boleh pergi ke [online docs Flutter](https://flutter.dev/docs).
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Semoga manfaat!
