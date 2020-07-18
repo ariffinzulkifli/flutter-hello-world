@@ -1,6 +1,6 @@
 # hello_world
 
-Training asas Flutter, trainer oleh Tuan Caspian (https://github.com/casfian/) pada 18 Julai 2020.
+Training asas Flutter, trainer oleh [Tuan Caspian](https://github.com/casfian) pada 18 Julai 2020.
 
 ## Asas Flutter
 
