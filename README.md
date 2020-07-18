@@ -10,6 +10,10 @@ Saya kongsikan source code Flutter yang saya pelajari hari ini dan buat tambahan
 
 - [API COVID-19](https://github.com/disease-sh/api)
 
+Screenshot diatas contoh data setiap negara, bintang merah negara tersebut ada kematian pada hari tersebut, manakala bintang hijau sebaliknya.
+
+## Belajar Flutter
+
 Bagi anda yang nak start belajar Flutter boleh hubungi terus Tuan Caspian atau secara online boleh pergi ke [online docs Flutter](https://flutter.dev/docs).
 
 Semoga manfaat!
